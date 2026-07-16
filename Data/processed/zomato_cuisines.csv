@@ -1,0 +1,314 @@
+Name,Cuisines,Cost
+Beyond Flavours,Chinese,800.0
+Beyond Flavours,Continental,800.0
+Beyond Flavours,Kebab,800.0
+Beyond Flavours,European,800.0
+Beyond Flavours,South Indian,800.0
+Beyond Flavours,North Indian,800.0
+Paradise,Biryani,800.0
+Paradise,North Indian,800.0
+Paradise,Chinese,800.0
+Flechazo,Asian,1300.0
+Flechazo,Mediterranean,1300.0
+Flechazo,North Indian,1300.0
+Flechazo,Desserts,1300.0
+Shah Ghouse Hotel & Restaurant,Biryani,800.0
+Shah Ghouse Hotel & Restaurant,North Indian,800.0
+Shah Ghouse Hotel & Restaurant,Chinese,800.0
+Shah Ghouse Hotel & Restaurant,Seafood,800.0
+Shah Ghouse Hotel & Restaurant,Beverages,800.0
+Over The Moon Brew Company,Asian,1200.0
+Over The Moon Brew Company,Continental,1200.0
+Over The Moon Brew Company,North Indian,1200.0
+Over The Moon Brew Company,Chinese,1200.0
+Over The Moon Brew Company,Mediterranean,1200.0
+The Fisherman's Wharf,Seafood,1500.0
+The Fisherman's Wharf,Goan,1500.0
+The Fisherman's Wharf,North Indian,1500.0
+The Fisherman's Wharf,Continental,1500.0
+The Fisherman's Wharf,Asian,1500.0
+eat.fit,Healthy Food,500.0
+eat.fit,North Indian,500.0
+eat.fit,Continental,500.0
+eat.fit,South Indian,500.0
+Shah Ghouse Spl Shawarma,Lebanese,300.0
+Hyper Local,American,1000.0
+Hyper Local,Chinese,1000.0
+Hyper Local,North Indian,1000.0
+Hyper Local,Kebab,1000.0
+Hyper Local,South Indian,1000.0
+Cream Stone,Ice Cream,350.0
+Cream Stone,Desserts,350.0
+Sardarji's Chaats & More,Street Food,400.0
+Sardarji's Chaats & More,North Indian,400.0
+Sardarji's Chaats & More,Fast Food,400.0
+Barbeque Nation,Mediterranean,1600.0
+Barbeque Nation,North Indian,1600.0
+Barbeque Nation,Kebab,1600.0
+Barbeque Nation,BBQ,1600.0
+Absolute Sizzlers,Continental,750.0
+Absolute Sizzlers,American,750.0
+Absolute Sizzlers,Chinese,750.0
+The Lal Street - Bar Exchange,North Indian,1300.0
+The Lal Street - Bar Exchange,Italian,1300.0
+The Lal Street - Bar Exchange,Finger Food,1300.0
+AB's - Absolute Barbecues,European,1500.0
+AB's - Absolute Barbecues,Mediterranean,1500.0
+AB's - Absolute Barbecues,North Indian,1500.0
+KFC,Burger,500.0
+KFC,Fast Food,500.0
+NorFest - The Dhaba,North Indian,550.0
+Hotel Zara Hi-Fi,Chinese,400.0
+Hotel Zara Hi-Fi,North Indian,400.0
+10 Downing Street,North Indian,1900.0
+10 Downing Street,Chinese,1900.0
+10 Downing Street,Continental,1900.0
+Pakwaan Grand,North Indian,400.0
+Pakwaan Grand,Chinese,400.0
+Pakwaan Grand,Biryani,400.0
+13 Dhaba,North Indian,450.0
+Jonathan's Kitchen - Holiday Inn Express & Suites,North Indian,1900.0
+Jonathan's Kitchen - Holiday Inn Express & Suites,Japanese,1900.0
+Jonathan's Kitchen - Holiday Inn Express & Suites,Italian,1900.0
+Jonathan's Kitchen - Holiday Inn Express & Suites,Salad,1900.0
+Jonathan's Kitchen - Holiday Inn Express & Suites,Sushi,1900.0
+B-Dubs,American,1600.0
+Amul,Ice Cream,150.0
+Amul,Desserts,150.0
+SKYHY,North Indian,1400.0
+SKYHY,Chinese,1400.0
+SKYHY,Continental,1400.0
+Tiki Shack,Continental,1000.0
+Mustang Terrace Lounge,Mexican,1300.0
+Mustang Terrace Lounge,Italian,1300.0
+Mustang Terrace Lounge,North Indian,1300.0
+Mustang Terrace Lounge,Chinese,1300.0
+Mustang Terrace Lounge,Salad,1300.0
+"3B's - Buddies, Bar & Barbecue",North Indian,1100.0
+"3B's - Buddies, Bar & Barbecue",Mediterranean,1100.0
+"3B's - Buddies, Bar & Barbecue",European,1100.0
+Behrouz Biryani,Mughlai,600.0
+Behrouz Biryani,Biryani,600.0
+Hunger Maggi Point,Fast Food,200.0
+Pot Pourri,Andhra,900.0
+Pot Pourri,South Indian,900.0
+Pot Pourri,North Indian,900.0
+Pista House,Bakery,1000.0
+Pista House,North Indian,1000.0
+Pista House,Mughlai,1000.0
+Pista House,Juices,1000.0
+Pista House,Chinese,1000.0
+Marsala Food Company,Arabian,700.0
+Marsala Food Company,North Indian,700.0
+Marsala Food Company,Chinese,700.0
+Club Rogue,North Indian,900.0
+Club Rogue,Fast Food,900.0
+Mazzo - Marriott Executive Apartments,Italian,1700.0
+Mazzo - Marriott Executive Apartments,North Indian,1700.0
+Mazzo - Marriott Executive Apartments,South Indian,1700.0
+Mazzo - Marriott Executive Apartments,Asian,1700.0
+Green Bawarchi Restaurant,North Indian,700.0
+Green Bawarchi Restaurant,Chinese,700.0
+Green Bawarchi Restaurant,Biryani,700.0
+Banana Leaf Multicuisine Restaurant,Biryani,700.0
+Banana Leaf Multicuisine Restaurant,South Indian,700.0
+Banana Leaf Multicuisine Restaurant,North Indian,700.0
+Banana Leaf Multicuisine Restaurant,Chinese,700.0
+Banana Leaf Multicuisine Restaurant,Andhra,700.0
+Kritunga Restaurant,Andhra,500.0
+Kritunga Restaurant,Biryani,500.0
+Kritunga Restaurant,Hyderabadi,500.0
+Kritunga Restaurant,North Indian,500.0
+The Glass Onion,North Indian,1200.0
+The Glass Onion,Continental,1200.0
+The Glass Onion,Italian,1200.0
+The Glass Onion,Asian,1200.0
+Deli 9 Bistro,Cafe,700.0
+Deli 9 Bistro,Continental,700.0
+Deli 9 Bistro,Desserts,700.0
+Frio Bistro,European,1200.0
+Frio Bistro,Italian,1200.0
+Frio Bistro,Continental,1200.0
+Frio Bistro,Spanish,1200.0
+Karachi Bakery,Bakery,500.0
+Karachi Bakery,Fast Food,500.0
+Karachi Bakery,Desserts,500.0
+Karachi Cafe,Cafe,600.0
+Karachi Cafe,Desserts,600.0
+Karachi Cafe,Fast Food,600.0
+The Foodie Monster Kitchen,American,500.0
+The Foodie Monster Kitchen,Wraps,500.0
+The Foodie Monster Kitchen,Desserts,500.0
+La La Land - Bar & Kitchen,Finger Food,1000.0
+La La Land - Bar & Kitchen,North Indian,1000.0
+La La Land - Bar & Kitchen,Kebab,1000.0
+La La Land - Bar & Kitchen,Chinese,1000.0
+Owm Nom Nom,Chinese,900.0
+Owm Nom Nom,Biryani,900.0
+Owm Nom Nom,Andhra,900.0
+Owm Nom Nom,North Indian,900.0
+Ulavacharu,Andhra,1400.0
+Ulavacharu,North Indian,1400.0
+Ulavacharu,Chinese,1400.0
+Shanghai Chef 2,Chinese,800.0
+Shanghai Chef 2,Thai,800.0
+Shanghai Chef 2,Indonesian,800.0
+Shanghai Chef 2,Asian,800.0
+Udipi's Upahar,South Indian,500.0
+Udipi's Upahar,North Indian,500.0
+Udipi's Upahar,Chinese,500.0
+Mathura Vilas,South Indian,500.0
+Mathura Vilas,North Indian,500.0
+Mathura Vilas,Chinese,500.0
+Gal Punjab Di,North Indian,800.0
+Gal Punjab Di,Continental,800.0
+Hitech Bawarchi Food Zone,Biryani,500.0
+Hitech Bawarchi Food Zone,North Indian,500.0
+Hitech Bawarchi Food Zone,Chinese,500.0
+Biryanis And More,North Indian,500.0
+Biryanis And More,Biryani,500.0
+Biryanis And More,Chinese,500.0
+Diners Pavilion,Chinese,1200.0
+Diners Pavilion,Continental,1200.0
+Diners Pavilion,Italian,1200.0
+Asian Meal Box,Asian,200.0
+Cafe Eclat,Cafe,700.0
+Cafe Eclat,Bakery,700.0
+Feast - Sheraton Hyderabad Hotel,Modern Indian,2500.0
+Feast - Sheraton Hyderabad Hotel,Asian,2500.0
+Feast - Sheraton Hyderabad Hotel,Continental,2500.0
+Feast - Sheraton Hyderabad Hotel,Italian,2500.0
+Being Hungry,North Indian,450.0
+Being Hungry,Chinese,450.0
+Tempteys,Desserts,350.0
+Tempteys,Beverages,350.0
+KS Bakers,Bakery,200.0
+KS Bakers,Desserts,200.0
+KS Bakers,Fast Food,200.0
+PourHouse7,North Indian,1200.0
+PourHouse7,Continental,1200.0
+PourHouse7,Chinese,1200.0
+PourHouse7,Italian,1200.0
+Prism Club & Kitchen,Kebab,1200.0
+Prism Club & Kitchen,Continental,1200.0
+Prism Club & Kitchen,Italian,1200.0
+Prism Club & Kitchen,North Indian,1200.0
+Shree Santosh Dhaba Family Restaurant,North Indian,500.0
+Shree Santosh Dhaba Family Restaurant,Chinese,500.0
+Shree Santosh Dhaba Family Restaurant,Fast Food,500.0
+Dine O China,Chinese,850.0
+Dine O China,Asian,850.0
+Dine O China,Momos,850.0
+Hyderabad Chefs,North Indian,600.0
+Hyderabad Chefs,Chinese,600.0
+Komatose - Holiday Inn Express & Suites,North Indian,1500.0
+Komatose - Holiday Inn Express & Suites,Chinese,1500.0
+Komatose - Holiday Inn Express & Suites,Japanese,1500.0
+Komatose - Holiday Inn Express & Suites,Sushi,1500.0
+Aromas@11SIX,North Indian,750.0
+Aromas@11SIX,Chinese,750.0
+Aromas@11SIX,Mughlai,750.0
+Aromas@11SIX,Biryani,750.0
+Yum Yum Tree - The Arabian Food Court,North Indian,1200.0
+Yum Yum Tree - The Arabian Food Court,Hyderabadi,1200.0
+The Tilt Bar Republic,North Indian,1500.0
+The Tilt Bar Republic,Continental,1500.0
+The Tilt Bar Republic,Italian,1500.0
+The Indi Grill,BBQ,1500.0
+The Indi Grill,Asian,1500.0
+The Indi Grill,Modern Indian,1500.0
+Urban Asia - Kitchen & Bar,Asian,1100.0
+Urban Asia - Kitchen & Bar,Thai,1100.0
+Urban Asia - Kitchen & Bar,Chinese,1100.0
+Urban Asia - Kitchen & Bar,Sushi,1100.0
+Urban Asia - Kitchen & Bar,Momos,1100.0
+Eat India Company,North Indian,1300.0
+Eat India Company,Mughlai,1300.0
+Eat India Company,Beverages,1300.0
+Labonel,Bakery,1000.0
+Labonel,Desserts,1000.0
+Driven Cafe,Cafe,600.0
+Driven Cafe,Fast Food,600.0
+Driven Cafe,Beverages,600.0
+Faasos,Fast Food,600.0
+Faasos,Biryani,600.0
+Faasos,Desserts,600.0
+Royal Spicy Restaurant,North Indian,700.0
+Royal Spicy Restaurant,South Indian,700.0
+The Old Madras Baking Company,Bakery,350.0
+Squeeze @ The Lime,Italian,650.0
+Squeeze @ The Lime,North Indian,650.0
+Squeeze @ The Lime,Chinese,650.0
+Squeeze @ The Lime,Salad,650.0
+Khaan Saab,North Indian,1100.0
+Khaan Saab,Mughlai,1100.0
+Olive Garden,North Indian,700.0
+Olive Garden,Chinese,700.0
+Olive Garden,Continental,700.0
+Olive Garden,Biryani,700.0
+Tandoori Food Works,North Indian,500.0
+Tandoori Food Works,Burger,500.0
+Tandoori Food Works,Kebab,500.0
+Delhi-39,North Indian,600.0
+Delhi-39,Chinese,600.0
+Al Saba Restaurant,North Indian,750.0
+Al Saba Restaurant,Chinese,750.0
+Al Saba Restaurant,Seafood,750.0
+Al Saba Restaurant,Biryani,750.0
+Al Saba Restaurant,Hyderabadi,750.0
+GD's,Burger,500.0
+GD's,American,500.0
+T Grill,North Indian,700.0
+T Grill,Andhra,700.0
+T Grill,Biryani,700.0
+T Grill,Chinese,700.0
+Momos Delight,Momos,200.0
+The Chocolate Room,Cafe,600.0
+The Chocolate Room,Desserts,600.0
+American Wild Wings,American,600.0
+American Wild Wings,Fast Food,600.0
+American Wild Wings,Salad,600.0
+American Wild Wings,Burger,600.0
+Domino's Pizza,Fast Food,400.0
+Domino's Pizza,Pizza,400.0
+Mohammedia Shawarma,Street Food,150.0
+Mohammedia Shawarma,Arabian,150.0
+Arena Eleven,Continental,1600.0
+Cascade - Radisson Hyderabad Hitec City,North Indian,1800.0
+Cascade - Radisson Hyderabad Hitec City,Italian,1800.0
+Cascade - Radisson Hyderabad Hitec City,Continental,1800.0
+Cascade - Radisson Hyderabad Hitec City,Asian,1800.0
+Collage - Hyatt Hyderabad Gachibowli,Continental,2800.0
+Collage - Hyatt Hyderabad Gachibowli,Italian,2800.0
+Collage - Hyatt Hyderabad Gachibowli,North Indian,2800.0
+Collage - Hyatt Hyderabad Gachibowli,Chinese,2800.0
+Collage - Hyatt Hyderabad Gachibowli,Asian,2800.0
+Zing's Northeast Kitchen,North Eastern,550.0
+Zing's Northeast Kitchen,Momos,550.0
+Dunkin' Donuts,Desserts,550.0
+Dunkin' Donuts,Cafe,550.0
+Dunkin' Donuts,Beverages,550.0
+Dunkin' Donuts,Burger,550.0
+Dunkin' Donuts,Fast Food,550.0
+Desi Bytes,North Indian,400.0
+Desi Bytes,Chinese,400.0
+Hyderabadi Daawat,Hyderabadi,600.0
+Hyderabadi Daawat,Chinese,600.0
+Hyderabadi Daawat,Mughlai,600.0
+Zega - Sheraton Hyderabad Hotel,Asian,1750.0
+Zega - Sheraton Hyderabad Hotel,Sushi,1750.0
+Triptify,North Indian,400.0
+Chinese Pavilion,Chinese,1000.0
+Chinese Pavilion,Seafood,1000.0
+IndiBlaze,Fast Food,600.0
+IndiBlaze,Salad,600.0
+Sweet Basket,Bakery,200.0
+Sweet Basket,Mithai,200.0
+Angaara Counts 3,North Indian,500.0
+Angaara Counts 3,Biryani,500.0
+Angaara Counts 3,Chinese,500.0
+Wich Please,Fast Food,250.0
+Republic Of Noodles - Lemon Tree Hotel,Thai,1700.0
+Republic Of Noodles - Lemon Tree Hotel,Asian,1700.0
+Republic Of Noodles - Lemon Tree Hotel,Chinese,1700.0
+Republic Of Noodles - Lemon Tree Hotel,Malaysian,1700.0
